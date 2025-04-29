@@ -60,6 +60,9 @@ class orderprocess {
         this.paymeth.pay(amt)
         this.printer.print()
     }
+
+
+    
 }
 
 
